@@ -1,5 +1,5 @@
 # Diagenesis-model
-## Numerical model on fluid-rock interaction in carbonate rocks (Ahm et al. 2018 and Murphy et al. 202X GCA)
+## Numerical model on fluid-rock interaction in carbonate rocks (Murphy et al. 202X GCA)
 ### Version JGM_v5
 ### Updated: 2021-02-08
 
